@@ -1,4 +1,4 @@
-# Sito vetrina — Studio Legale
+# Sito vetrina — Avvocato Vitalba Guzzo
 
 Starter statico HTML/CSS/JS, responsive e adatto a GitHub Pages.
 
@@ -7,12 +7,13 @@ Apri `index.html` nel browser.
 
 ## Personalizzazione prima della pubblicazione
 Cerca e sostituisci i testi segnaposto:
-- `STUDIO LEGALE` e il nome dello studio
+- i dati identificativi e il nome professionale, se da modificare
 - le tre aree di attività con quelle effettivamente esercitate
 - email e telefono (nella sezione Contatti di `index.html`)
 - verifica gli indirizzi delle due sedi
 - descrizione dello studio e del professionista
 
+Il logo orizzontale è `logo-vg.svg`; la favicon quadrata è `favicon.svg`. Entrambi devono rimanere nella stessa cartella di `index.html`.
 Aggiorna anche titolo e descrizione SEO nel `<head>` di `index.html`.
 Le pagine `privacy.html` e `cookie.html` sono soltanto segnaposto: devono essere completate e verificate rispetto ai trattamenti e agli strumenti effettivi prima della pubblicazione.
 
